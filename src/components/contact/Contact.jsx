@@ -13,20 +13,20 @@ const Contact = () => {
         <p className='contact-details'>Don't like forms? Send me an email</p>
       </div>
 
-      <form action="" className='contact-form'>
+      <form action="https://getform.io/f/1b649fe7-dffc-416f-b411-c5766e51fc68" method='POST' className='contact-form'>
         <div className='contact-from-group'>
           <div className='contact-form-div'>
-            <input type="text" className='contact-form-input' placeholder='Insert your name'/>
+            <input type="text" name='name' className='contact-form-input' placeholder='Insert your name'/>
           </div>
           <div className='contact-form-div'>
-            <input type="email" className='contact-form-input' placeholder='Insert your email'/>
+            <input type="email" name='email' className='contact-form-input' placeholder='Insert your email'/>
           </div>
           </div>
           <div className='contact-form-div'>
-            <input type="text" className='contact-form-input' placeholder='Insert your subject'/>
+            <input type="text" name='subject' className='contact-form-input' placeholder='Insert your subject'/>
           </div>
           <div className='contact-form-div contact-form-area'>
-            <textarea name='' cols="30" row="10" className='contact-form-input' placeholder='Write Your message'></textarea>
+            <textarea name='message' cols="30" row="10" className='contact-form-input' placeholder='Write Your message'></textarea>
           </div>
 
           <button className='btn'>Send Message</button>
