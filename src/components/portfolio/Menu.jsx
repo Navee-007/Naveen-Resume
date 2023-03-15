@@ -1,10 +1,14 @@
 import Work1 from '../../assets/projects/Poomex.PNG';
-import Work2 from '../../assets/projects/Form-design.PNG';
+import Work2 from '../../assets/projects/multimart.PNG';
 import Work3 from '../../assets/projects/Order-summary.PNG';
 import Work4 from '../../assets/projects/R-P-S-game.PNG';
 import Work5 from '../../assets/projects/tip-calculator.PNG';
 import Work6 from '../../assets/projects/Weather-App.PNG';
 import Work7 from '../../assets/projects/Calculator.PNG';
+import Work8 from '../../assets/projects/Form-design.PNG';
+import Work9 from '../../assets/projects/random generator.PNG';
+
+
 
 
 const Menu = [
@@ -18,9 +22,9 @@ const Menu = [
   {
     id:2,
     image:Work2,
-    title:"Form-design",
-    category:"Design",
-    link:"https://signup-form-n.netlify.app/"
+    title:"Multimart ",
+    category:"React projects",
+    link:"https://multimart-ecommerce-website.netlify.app/home"
   },
   {
     id:3,
@@ -61,6 +65,20 @@ const Menu = [
     category:"Mini Project",
     link:"https://simple-calculator-n.netlify.app/"
 
+  },
+  {
+    id:8,
+    image:Work8,
+    title:"Form-design",
+    category:"Design",
+    link:"https://signup-form-n.netlify.app/"
+  },
+  {
+    id:9,
+    image:Work9,
+    title:"Random-color-generator",
+    category:"React projects",
+    link:"https://random-color-generator-n.netlify.app/"
   },
 ]
 export default Menu
