@@ -15,7 +15,7 @@ const data=[
     icon:"icon-briefcase",
     year:"2020 - 2021",
     title: "Front-End Developer(jr)",
-    desc:" PSD to HTML add template creation and Handle with tv Adds"
+    desc:" PSD to HTML add template creation "
   },
   {
     id:3,
