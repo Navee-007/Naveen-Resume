@@ -1,6 +1,6 @@
 import Work1 from '../../assets/projects/Poomex.PNG';
 import Work2 from '../../assets/projects/multimart.PNG';
-import Work3 from '../../assets/projects/Order-summary.PNG';
+import Work3 from '../../assets/projects/chat-app.PNG';
 import Work4 from '../../assets/projects/R-P-S-game.PNG';
 import Work5 from '../../assets/projects/tip-calculator.PNG';
 import Work6 from '../../assets/projects/Weather-App.PNG';
@@ -17,6 +17,8 @@ import Work16 from '../../assets/projects/menu.PNG';
 import Work17 from '../../assets/projects/lorem-generator.PNG';
 import Work18 from '../../assets/projects/countdown.PNG';
 import Work19 from '../../assets/projects/color-flipper.PNG';
+import Work20 from '../../assets/projects/Order-summary.PNG';
+
 
 
 
@@ -41,9 +43,9 @@ const Menu = [
   {
     id:3,
     image:Work3,
-    title:"Order-summary",
-    category:"Design",
-    link:"https://order-summary-n.netlify.app/"
+    title:"chat-app",
+    category:"React projects",
+    link:"https://chat-application-n.netlify.app/"
 
   },
   {
@@ -161,6 +163,13 @@ const Menu = [
     title: "color-flipper",
     category: "Mini Project",
     link: "https://color-flipper-n.netlify.app/"
+  }, {
+    id: 20,
+    image: Work20,
+    title: "Order-summary",
+    category: "Design",
+    link: "https://order-summary-n.netlify.app/"
+
   },
   
 ]
