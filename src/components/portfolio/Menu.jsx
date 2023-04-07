@@ -45,7 +45,7 @@ const Menu = [
     image:Work3,
     title:"chat-app",
     category:"React projects",
-    link:"https://chat-application-n.netlify.app/"
+    link:"https://chat-app-n.netlify.app/"
 
   },
   {
