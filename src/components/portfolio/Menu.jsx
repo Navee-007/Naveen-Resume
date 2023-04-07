@@ -38,7 +38,7 @@ const Menu = [
     image:Work2,
     title:"Multimart ",
     category:"React projects",
-    link:"https://multimart-shop.netlify.app/"
+    link:"https://maltimart-shop.netlify.app/"
   },
   {
     id:3,
